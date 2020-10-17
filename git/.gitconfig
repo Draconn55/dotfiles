@@ -1,6 +1,6 @@
 # This is Git's per-user configuration file.
 [user]
-    name = Andrei Cosma
+    name = Cosma Andrei
     email = andrei.cosma55@gmail.com
     signinkey = 4309B159C116B326
 [alias]
