@@ -1,8 +1,8 @@
 # This is Git's per-user configuration file.
 [user]
-    name = TED Vortex
-    email = ted.vortex@gmail.com
-    signinkey = 3A7C3F2DF91FB476
+    name = Andrei Cosma
+    email = andrei.cosma55@gmail.com
+    signinkey = 4309B159C116B326
 [alias]
     # View the current working tree status using the short format
     s = status -s
@@ -58,7 +58,7 @@
     new = green bold
     whitespace = red reverse
 [github]
-    user = 0-vortex
+    user = draconn55
 [commit]
   gpgsign = true
 [credential]
